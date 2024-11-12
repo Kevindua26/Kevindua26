@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG6Ei81psVjEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723577837590?e=1736985600&v=beta&t=QLqh2FPSXcUL9iamtJsh3uRl9WhEcTZQlWLmaptVNws" width="100%" />
 <h1 align="center">Hi 👋, I'm Kaivalaya Dua</h1>
 <h3 align="center">Detail-Oriented Programmer & Creative Designer</h3>
 
