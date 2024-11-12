@@ -63,3 +63,13 @@
 
 <h3 align="left">Github Streak Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevindua26&theme=default" alt="kevindua26" /></p>
+
+<img src="https://raw.githubusercontent.com/Kevindua26/Kevindua26/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Kevindua26/count.svg?"  />
+</div>
+
+###
