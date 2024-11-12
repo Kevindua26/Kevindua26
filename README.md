@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQG6Ei81psVjEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723577837590?e=1736985600&v=beta&t=QLqh2FPSXcUL9iamtJsh3uRl9WhEcTZQlWLmaptVNws" width="100%" />
 <h1 align="center">Hi 👋, I'm Kaivalaya Dua</h1>
 <h3 align="center">Detail-Oriented Programmer & Creative Designer</h3>
 
@@ -60,6 +61,8 @@
 
 <h3 align="left">Widgets:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevindua26&show_icons=true&locale=en&layout=compact" alt="kevindua26" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevindua26&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&locale=en&layout=compact" alt="kevindua26" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevindua26&" alt="kevindua26" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevindua26&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&cache_seconds=1800&locale=en" alt="kevindua26" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevindua26&theme=default" alt="kevindua26" /></p>
