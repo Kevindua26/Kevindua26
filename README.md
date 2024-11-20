@@ -60,6 +60,3 @@
 
 <h3 align="left">Most Used Languages:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevindua26&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&locale=en&layout=compact" alt="kevindua26" /></p>
-
-<h3 align="left">Github Streak Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevindua26&theme=default" alt="kevindua26" /></p>
