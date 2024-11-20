@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Frontend Development, DSA**
 
-- 📫 How to reach me **[linktr.ee/kevindua26](https://linktr.ee/kevindua26)**
+- 📫 How to reach me **kevindua26@gmail.com**
 
 - ⚡ Fun fact **I'm serious, ok? 🤣**
 
