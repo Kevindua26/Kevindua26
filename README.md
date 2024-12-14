@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **kevindua26@gmail.com**
 
-- ⚡ Fun fact **I'm serious, ok? 🤣**
+- ⚡ Fun fact **I'm serious, ok? 🤣🤣**
 
 <h3 align="left">GSSOC(24) Badges 🪶:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
