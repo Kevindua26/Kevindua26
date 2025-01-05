@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, MERN**
 
-- 💬 Ask me about **WebDev, DSA**
+- 💬 Ask me about **Tech, WebDev, DSA, Designing**
 
 - 📫 How to reach me **kevindua26@gmail.com**
 
