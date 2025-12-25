@@ -29,8 +29,6 @@
 - ⚡ Fun fact **🐙 GitHub’s mascot is an Octocat**
 -->
 
-<br>
-
 <h3 align="center">GSSoC'24 Badges 🪶:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -42,8 +40,6 @@
 </div>
  
 ###
-
-<br>
 
 <h3 align="center">Tools & Languages: </h3>
 <div align="center">
